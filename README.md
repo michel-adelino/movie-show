@@ -2,9 +2,9 @@
 A playground android app, showcasing the latest technologies and architecture patterns using the [Movie Database](https://www.themoviedb.org/) APIs.
 
 # Demo
-<span><img src="https://github.com/ImnIrdst/iiCnma/blob/main/demo/iicnma-home-detail.gif" width="170" height="320"></span>
-<span><img src="https://github.com/ImnIrdst/iiCnma/blob/main/demo/iicnma-search.gif" width="170" height="320"></span>
-<span><img src="https://github.com/ImnIrdst/iiCnma/blob/main/demo/iicnma-favorites.gif" width="170" height="320"></span>
+<span><img src="./demo/iicnma-home-detail.gif" width="170" height="320"></span>
+<span><img src="./demo/iicnma-search.gif" width="170" height="320"></span>
+<span><img src="./demo/iicnma-favorites.gif" width="170" height="320"></span>
 
 # Technologies
 
